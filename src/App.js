@@ -4,9 +4,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="Octocat.png" className="App-logo" alt="logo" />
+        <img src="JESSICA.png" className="App-logo" alt="logo" />
         <p>
-          GitHub Codespaces <span className="heart">♥️</span> React
+          Oie sou a Jéssica <span className="heart">♥️</span> gosto de comer bolo
         </p>
         <p className="small">
           Edit <code>src/App.js</code> and save to reload.
@@ -14,7 +14,7 @@ function App() {
         <p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://https://github.com/JessicaCasteloBranco.org"
             target="_blank"
             rel="noopener noreferrer"
           >
